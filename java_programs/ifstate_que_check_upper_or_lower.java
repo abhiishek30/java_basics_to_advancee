@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 //  que....check if a character is upper case or lower case and vowel or consonant
 
-public class ifstate_que_2 {
+public class ifstate_que_check_upper_or_lower {
     public static void main(String[] args){
         Scanner S=new Scanner(System.in);
         System.out.print("Enter a character : ");

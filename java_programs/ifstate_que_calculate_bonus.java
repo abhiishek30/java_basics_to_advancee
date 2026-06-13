@@ -2,14 +2,14 @@
 
 import java.util.Scanner;
 
-public class ifstate_que_6 {
+public class ifstate_que_calculate_bonus {
     public static void main() {
         Scanner S=new Scanner(System.in);
         System.out.print("Enter your salary in numbers : ");
-        int sal = S.nextInt();
-        if(sal>50000) {
+        float sal = S.nextFloat();
+        if(sal>=50000) {
             System.out.print("you get bonus of :  ");
-            int b = 10 * sal /100 ;
+            float b = 10 * sal /100f ;
             System.out.println(b);
             System.out.print("your new salary is : ");
             sal+= b;

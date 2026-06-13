@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class ifstate_que_1 {
+public class ifstate_que_check_eligibility {
     public static void main (String[] args){
         Scanner S = new Scanner(System.in);
         System.out.print("enter your age : ");

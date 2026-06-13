@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class ifstate_que_3 {
+public class ifstate_que_pos_neg {
     public static void main(String[] args){
         Scanner S=new Scanner(System.in);
         System.out.print("enter a number : ");
