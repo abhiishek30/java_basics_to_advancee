@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class if_else_cricket_result {
+public class if_else_que_cricket_result {
     public static void main(String[] args) {
         Scanner S= new Scanner(System.in);
 

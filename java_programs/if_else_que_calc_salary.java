@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class if_else_calc_salary {
+public class if_else_que_calc_salary {
     public static void main(String[] args){
         Scanner S = new Scanner(System.in);
         System.out.print(" Enter your CTC(cost to company) : ₹");
