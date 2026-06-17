@@ -1,8 +1,8 @@
-//build a mini e-commerce order processing system
+//build a Online Checkout system
 
 import java.util.Scanner;
 
-public class if_else_que_orderProcessingSystem {
+public class if_else_que_onlineCheckoutSystem {
     public static void main(String[] args){
         Scanner S = new Scanner(System.in);
         System.out.println("choose option\n 1.Add to Cart\n 2.See product description\n 3.exit the app  ");
