@@ -5,7 +5,7 @@ public class loop_pattern_printing11 {
 
         for (int i = 1; i <= 5; i++) {
             for (int j = 1; j <= i; j++) {
-                if (i % 2 != 0) {
+                if (i % 2 != 0){
                     System.out.print("* ");
                 }
             }
